@@ -10,7 +10,7 @@ namespace EmployeeSalaryUpdate
     {
         static void Main(string[] args)
         {
-            Employee[] employees = 
+            Employee[] employees =
             {
                 new Employee { Id = 1, Name = "Mahmoud", Salary = 40000, Experience = 6 },
                 new Employee { Id = 2, Name = "Mohamed", Salary = 60000, Experience = 2 },
